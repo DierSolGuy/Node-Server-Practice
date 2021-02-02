@@ -1,0 +1,9 @@
+Profile:
+{
+    name
+    phone_no
+    address
+    adhar_no
+    father_name
+    mother_name
+}

@@ -1,0 +1,8 @@
+{
+    "name": "Sourish",
+    "phone_no": 8017579822,
+    "address":"Bally, Howrah",
+    "adhar_no":"55564564564658456454884",
+    "father_name":"xyz",
+    "mother_name":"abc"
+}
